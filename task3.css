@@ -42,11 +42,11 @@ background:linear-gradient(rgba(0, 0, 0, 0),rgba(0, 0, 0, 0.7)), url(Image-3.png
         justify-content: end;
         flex: 1;
         gap: 16px;
-        background-size: cover ;
+        background-size: cover;
         background-position: center;
         transition:0.3s;
     }
-
+s
     .card:hover{
         transform: scale(105%);
         z-index: 1;
